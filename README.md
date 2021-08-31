@@ -1,9 +1,9 @@
-# Sneak-Peek
+# Ikshana
 Your vison, our focus.
 
-This is Sneak-Peek
+This is Ikshana
 
-Sneak-Peek is associate degree app, tailored for that working-from-home, play fans, students, lecturers, and phone addicts. Through Sneak-Peek, we tend to aim at providing you, customized eye protection or the other issue or answer associated with the user’s sight, helping you to require higher care of them, which may improve your eye health and additionally one’s outlook and way.
+ Ikshana is associate degree app, tailored for that working-from-home, play fans, students, lecturers, and phone addicts. Through  Ikshana, we tend to aim at providing you, customized eye protection or the other issue or answer associated with the user’s sight, helping you to require higher care of them, which may improve your eye health and additionally one’s outlook and way.
 
 Our varied options listed below square measure specifically geared toward occupation to specific problems visaged by our generation.
 
@@ -15,7 +15,7 @@ Our varied options listed below square measure specifically geared toward occupa
 
    4.Find yourself a doctor: This feature helps one realize doctors and eye care centers near  for any consultation.
 
-Sneak-Peek is associate degree robot app enforced in java.
+Ikshana is associate degree robot app enforced in java.
 We have used varied arthropod genus
 
     1.Google's API for login.
