@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703812266332",
+    "project_id": "ikshana-6",
+    "storage_bucket": "ikshana-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703812266332:android:648693c7b87934dae4f999",
+        "android_client_info": {
+          "package_name": "com.example.ikshana6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703812266332-0it1sv62j0pfmeeo0lji3v9tpg5fqvre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHpc3j-PrS1g9c0hKGsLSglbk-1PucfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703812266332-0it1sv62j0pfmeeo0lji3v9tpg5fqvre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
